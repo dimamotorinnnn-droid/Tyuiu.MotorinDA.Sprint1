@@ -5,11 +5,11 @@ VisualStudioVersion = 17.14.37710.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task2", "Task2", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task2.V0", "Tyuiu.MotorinDA.Sprint1.Task2.V0\Tyuiu.MotorinDA.Sprint1.Task2.V0.csproj", "{8ABA1847-62F4-47A6-9AA4-7A10E4B7785C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task2.V26", "Tyuiu.MotorinDA.Sprint1.Task2.V0\Tyuiu.MotorinDA.Sprint1.Task2.V26.csproj", "{8ABA1847-62F4-47A6-9AA4-7A10E4B7785C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task2.V0.Lib", "Tyuiu.MotorinDA.Sprint1.Task2.V0.Lib\Tyuiu.MotorinDA.Sprint1.Task2.V0.Lib.csproj", "{BEF284E7-7256-4EAB-8FBD-E059FCCBFA51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task2.V26.Lib", "Tyuiu.MotorinDA.Sprint1.Task2.V0.Lib\Tyuiu.MotorinDA.Sprint1.Task2.V26.Lib.csproj", "{BEF284E7-7256-4EAB-8FBD-E059FCCBFA51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task2.V0.Test", "Tyuiu.MotorinDA.Sprint1.Task2.V0.Test\Tyuiu.MotorinDA.Sprint1.Task2.V0.Test.csproj", "{7472AC30-1FBC-423A-A02A-1EB4AAF7D1F9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task2.V26.Test", "Tyuiu.MotorinDA.Sprint1.Task2.V0.Test\Tyuiu.MotorinDA.Sprint1.Task2.V26.Test.csproj", "{7472AC30-1FBC-423A-A02A-1EB4AAF7D1F9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task3", "Task3", "{A38E65A2-EFD8-4928-A4D4-1BB52D425C21}"
 EndProject
@@ -21,19 +21,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Tas
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task4", "Task4", "{0EF067CD-E823-48BF-A4AE-57A04B45D6AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task4.V0", "Tyuiu.MotorinDA.Sprint1.Task4.V0\Tyuiu.MotorinDA.Sprint1.Task4.V0.csproj", "{00922F3C-86CD-414B-9CE4-10E7B710D3F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task4.V28", "Tyuiu.MotorinDA.Sprint1.Task4.V0\Tyuiu.MotorinDA.Sprint1.Task4.V28.csproj", "{00922F3C-86CD-414B-9CE4-10E7B710D3F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task4.V0.Lib", "Tyuiu.MotorinDA.Sprint1.Task4.V0.Lib\Tyuiu.MotorinDA.Sprint1.Task4.V0.Lib.csproj", "{E41F7FBD-F796-4B1A-A723-DC411677D612}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task4.V28.Lib", "Tyuiu.MotorinDA.Sprint1.Task4.V0.Lib\Tyuiu.MotorinDA.Sprint1.Task4.V28.Lib.csproj", "{E41F7FBD-F796-4B1A-A723-DC411677D612}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task4.V0.Test", "Tyuiu.MotorinDA.Sprint1.Task4.V0.Test\Tyuiu.MotorinDA.Sprint1.Task4.V0.Test.csproj", "{42930BCF-DBB9-419D-A4F8-9855526605C6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task4.V28.Test", "Tyuiu.MotorinDA.Sprint1.Task4.V0.Test\Tyuiu.MotorinDA.Sprint1.Task4.V28.Test.csproj", "{42930BCF-DBB9-419D-A4F8-9855526605C6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task5", "Task5", "{4F71B03E-02E6-4F46-9990-F560C225267B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task5.V0", "Tyuiu.MotorinDA.Sprint1.Task5.V0\Tyuiu.MotorinDA.Sprint1.Task5.V0.csproj", "{EEADC64A-2403-4876-9538-4972646AFDEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task5.V2", "Tyuiu.MotorinDA.Sprint1.Task5.V0\Tyuiu.MotorinDA.Sprint1.Task5.V2.csproj", "{EEADC64A-2403-4876-9538-4972646AFDEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task5.V0.Lib", "Tyuiu.MotorinDA.Sprint1.Task5.V0.Lib\Tyuiu.MotorinDA.Sprint1.Task5.V0.Lib.csproj", "{BA854A2D-04B8-4F37-9D40-142A50D3A963}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task5.V2.Lib", "Tyuiu.MotorinDA.Sprint1.Task5.V0.Lib\Tyuiu.MotorinDA.Sprint1.Task5.V2.Lib.csproj", "{BA854A2D-04B8-4F37-9D40-142A50D3A963}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task5.V0.Test", "Tyuiu.MotorinDA.Sprint1.Task5.V0.Test\Tyuiu.MotorinDA.Sprint1.Task5.V0.Test.csproj", "{AAE9812A-0A93-4536-948B-4A6439A6298B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task5.V2.Test", "Tyuiu.MotorinDA.Sprint1.Task5.V0.Test\Tyuiu.MotorinDA.Sprint1.Task5.V2.Test.csproj", "{AAE9812A-0A93-4536-948B-4A6439A6298B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
