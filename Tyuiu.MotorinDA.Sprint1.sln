@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MotorinDA.Sprint1.Task0.V1.Test", "Tyuiu.MotorinDA.Sprint1.Task0.V1.Test\Tyuiu.MotorinDA.Sprint1.Task0.V1.Test.csproj", "{118386E5-5DDE-4919-9750-52D99D1083F1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{88828997-4273-400A-90B7-9A9160E75534}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
