@@ -25,9 +25,11 @@ namespace Tyuiu.MotorinDA.Sprint1.Task3.V1
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*РЕЗУЛЬТАТ: 37,68                                                         *");
             Console.WriteLine("***************************************************************************");
-            double r = 2;
-            double h = 3;
-            Console.WriteLine("Объем цилиндра равен: " + ds.CylinderVolume(r, h));
+            Console.WriteLine("Введите значение Х:");
+            int x = int.Parse(Console.ReadLine());
+            Console.WriteLine("Введите значение Y:");
+            int y = int.Parse(Console.ReadLine());
+            Console.WriteLine("Объем цилиндра равен: " + ds.CylinderVolume(x, y));
         }
     }
 }
